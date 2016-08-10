@@ -4728,7 +4728,7 @@ ul.project-detail-block, .project-detail-block ul {
 
 @media only screen and (min-width: 768px) {
   .cd-top {
-    right: 20px;
+    right: 20px
     bottom: 28px;
   }
 }
@@ -4745,7 +4745,7 @@ ul.project-detail-block, .project-detail-block ul {
 
 .video-container {
     position: relative;
-    padding-bottom: 55.5%;
+    padding-bottom: 56.2%;
     padding-top: 0px; height: 0; overflow: hidden;
 }
  
